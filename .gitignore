@@ -17,6 +17,3 @@
 .env.*
 !.env.example
 !.env.*.example
-
-# Local
-DRAFT
