@@ -38,5 +38,5 @@ func main() {
 		return
 	}
 
-	slg.Debug("service started")
+	_ = slg
 }

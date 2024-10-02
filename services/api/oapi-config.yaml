@@ -1,0 +1,7 @@
+package: oapi
+
+generate:
+  echo-server: true
+  models: true
+
+output: internal/delivery/http/oapi/server-generated.go
